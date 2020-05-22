@@ -28,11 +28,6 @@ import com.generic.DriverScript;
 import com.masterpagefactory.MasterPagefactory;
 import com.util.Highlighter1;
 import com.util.ExplicitWait;
-<<<<<<< HEAD
-//masterugurbbbkh
-=======
-//origin
->>>>>>> d18c746f77996b7d14d8cbd57e2d9f91efcf9eed
 public class MarketData {
 	WebDriver driver;
 	MasterPagefactory pf;
