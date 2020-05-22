@@ -35,7 +35,7 @@ public class MarketData {
 	Map<String, String> Mymap;
 	List<String> popstocks;
 	JavascriptExecutor js;
-
+//ugur
 	@BeforeTest
 	public void Sutup_tc01() {
 
