@@ -28,7 +28,7 @@ import com.generic.DriverScript;
 import com.masterpagefactory.MasterPagefactory;
 import com.util.Highlighter1;
 import com.util.ExplicitWait;
-
+//serkan
 public class MarketData {
 	WebDriver driver;
 	MasterPagefactory pf;
